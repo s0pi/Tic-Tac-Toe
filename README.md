@@ -18,6 +18,7 @@ FEATURES
 8. New game button
 - A dedicated button resets the entire game board and status, allowing players to start over without restarting the program.
 
+
 MECHANICS OF THE GAME
 - The game is played on a 3x3 grid.
 - Two players take turns: one is Player X, the other is Player O.
@@ -28,7 +29,9 @@ MECHANICS OF THE GAME
 - If the grid is completely filled and no one wins, the popup will say “It’s a draw!”.
 - A New Game button is available to reset the board and start over.
 
+
 SCREENSHOTS
+
 1.
 <img width="402" alt="Screenshot 2025-04-25 at 10 57 12 PM" src="https://github.com/user-attachments/assets/9d1f8580-e3b3-4500-829b-e6ad96982e77" />
 
